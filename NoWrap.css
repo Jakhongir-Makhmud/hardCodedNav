@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.noWrap-container {
+    width: 100%;
+    margin-top: 25px;
+    height: 100px;
+    overflow-y:scroll;
+
+}
+
+ .inline-block {
+     display: inline-block;
+     text-decoration: none;
+    border: 1px solid grey;
+    width: auto;
+    padding: 0 15px;
+    height: 1.5rem;
+    text-align: center;
+    border-radius: 1px;
+    margin: .1px;
+    background-color: rgb(185, 184, 184);
+    color: #000;
+    margin-bottom: 5px ;
+
+}
+
+.block {
+    display: block;
+   text-decoration: none;
+   border: 1px solid grey;
+   min-width: 100px;
+   max-width: 100px;
+   height: 1.5rem;
+   text-align: center;
+   border-radius: 1px;
+   margin: .1px;
+   background-color: rgb(185, 184, 184);
+   color: #000;
+   margin-bottom: 5px ;
+
+}
+
+
+div a:hover {
+    background-color: rgb(114, 114, 114);
+}
+
+.mar {
+    margin-left: 560px;
+}
+.mar0 {
+    margin-left: 505px;
+}
+
+.mar1 {
+    margin-left: 372px;
+}
+.mar2 {
+    margin-left: 294px;
+}
+.mar3 {
+    margin-left: 208px;
+}
+.mar4 {
+    margin-left: 138px;
+}
+.mar5 {
+    margin-left: 35px;
+}
+
+
+
